@@ -1,5 +1,4 @@
 'use strict';
-
 var link = document.querySelector(".btn--address");
 var popup = document.querySelector(".feedback-form");
 var close = popup.querySelector(".feedback-form__close");
